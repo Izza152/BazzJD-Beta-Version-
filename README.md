@@ -10,8 +10,8 @@
 | Windows (Desktop) | Installer (v1.0.0) | Rilis |
 
 ## Unduh
-- Windows Installer: https://jdapps.web.id/download/bazzjd-windows
-- Android APK: https://jdapps.web.id/download/bazzjd-android
+- Windows Installer: -
+- Android APK: -
 
 > Ganti domain/path sesuai struktur domain; pastikan link aktual diupload.
 
